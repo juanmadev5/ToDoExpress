@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--Common values-->
+    <dimen name="min_padding">8dp</dimen>
+    <dimen name="default_padding">16dp</dimen>
+
+    <!--Home-->
+    <dimen name="title_font_size">20sp</dimen>
+    <dimen name="options_container_width">140dp</dimen>
+    <dimen name="task_separator_padding_top">64dp</dimen>
+
+    <!--TaskCard-->
+    <dimen name="tc_columnPadding">16dp</dimen>
+    <dimen name="task_name_font_size">18sp</dimen>
+    <dimen name="task_name_padding_top">8dp</dimen>
+    <dimen name="task_name_padding_bottom">16dp</dimen>
+    <dimen name="task_created_at_font_size">12sp</dimen>
+    <dimen name="button_set_completed_padding_top">32dp</dimen>
+    <dimen name="info_container_max_width">250dp</dimen>
+
+    <!--BottomSheetContent-->
+    <dimen name="task_font_size">26sp</dimen>
+    <dimen name="save_task_button_padding_top">32dp</dimen>
+
+</resources>

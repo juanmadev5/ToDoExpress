@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">To do express</string>
+    <string name="created_at">Created at: %1$s</string>
+    <string name="set_as_completed">Set as completed</string>
+    <string name="go_back">go back</string>
+    <string name="create_task">Create task</string>
+    <string name="save_task">Save task</string>
+    <string name="add_task_here">Add task here</string>
+    <string name="task">Task</string>
+    <string name="tasks_history">Tasks history</string>
+    <string name="app_info">app info</string>
+    <string name="add_new_task">add new task</string>
+    <string name="no_tasks_created">No tasks created</string>
+    <string name="no_completed_tasks_yet">No completed tasks yet</string>
+    <string name="delete_history">Delete history</string>
+    <string name="with_from_paraguay">With ❤️ from Paraguay.</string>
+</resources>
